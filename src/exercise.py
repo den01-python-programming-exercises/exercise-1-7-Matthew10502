@@ -1,7 +1,7 @@
 
 def main():
-    Name = input('Name...')
-    print("hi " + (Name))
+    Name = input ()
+    print("Hi " + (Name))
 
 if __name__ == '__main__':
     main()
